@@ -1,14 +1,14 @@
 Here you'll find a repository of past Simutronics software, hosted for archival purposes.
 
 ## Windows FE Clients
-* WraythSetup-v28.exe - Windows FE Client
-* wzinst.exe - Windows WizardFE
+* WraythSetup-v28.exe - Wrayth Installer
+* wzinst.exe - WizardFE Installer
 
 ## Mac FE Clients
-* Avalon4.3.5.zip - Mac FE Client
-* Avalon_4.1.5.dmg - Mac FE Client
-* simutronics.sea.bin - Mac WizardFE binary encoded package
-* simutronics.sea.hqx - Mac WizardFE hex encoded package
+* Avalon4.3.5.zip - Avalon Zip Package
+* Avalon_4.1.5.dmg - Avalon DMG Package
+* simutronics.sea.bin - Mac WizardFE binary encoded package, unsure if works on MacOS
+* simutronics.sea.hqx - Mac WizardFE hex encoded package, unsure if works on MacOS
 
 ## Windows Misc Tools and Files
 * fixname.zip - Windows utility to append date to game log files
