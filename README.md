@@ -2,7 +2,7 @@ Here you'll find a repository of past Simutronics software, hosted for archival 
 
 ## Windows FE Clients
 * WraythSetup-v28.exe - Wrayth Installer
-* wzinst.exe - WizardFE Installer
+* wzinst.exe - WizardFE Installer (v2.05)
 
 ## Mac FE Clients
 * Avalon4.3.5.zip - Avalon Zip Package
